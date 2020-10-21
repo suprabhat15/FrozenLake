@@ -1,0 +1,2 @@
+ Implemented Reinforcement Learning algorithm. Specifically, Used Python to implement the Q-learning
+ algorithm to train an agent to play OpenAI Gym’s Frozen Lake game. 
